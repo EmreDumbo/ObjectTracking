@@ -30,11 +30,14 @@ TRACKING/
 ## 📦 Installation
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
+git clone https://github.com/EmreDumbo/ObjectTracking.git
+cd ObjectTracking
 
-# Install dependencies
-pip install -r requirements.txt
+## 🖥 System Requirements
+- **Operating System**: macOS, Linux (Windows may require additional setup)
+- **Python Version**: 3.8 or higher
+- **Dependencies**: Listed in `requirements.txt`
+- **Hardware**: Recommended GPU (NVIDIA or Apple M-series for acceleration)
 ```
 
 ## 🛠 Usage
